@@ -1,4 +1,4 @@
-# web-vue
+# lmg-web-vue
 
 ## Project setup
 ```
